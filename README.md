@@ -27,5 +27,23 @@ Year | Location
 1996 - 2017 | Mumbai India
 2017 - 2018 | Seattle USA
 
+## Favorite Books and Music
 
+1. Books
+    1. Seven habits of highly effective people
+2. TV Shows
+    1. Silicon Valley
+    2. The Profit
+    3. Game of Thrones
+    4. Sherlock
+    5. Shark Tank
+3. Music
+    1. Linkin Park
+    2. Coldplay
+    3. John Mayer
 
+## My learning goals from the course
+
+- [x] Experiencing a instructor version of canvas!
+- [ ] Learning about people taking the course
+- [ ] grading on time!
